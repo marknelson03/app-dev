@@ -33,12 +33,12 @@
   Sample User: Sincere@april.biz / (password) Bret
 
 7. Deployment -
-  https://your-app.vercel.app
+  https://dynamic-web-app-nine.vercel.app/
 
 8. Contributions -
   Member	Role
-  Member 1	Setup, auth, deployment
-  Member 2	Charts, user view
-  Member 3	Form validation, maps
-  Member 4	Posts, comments, UI
+  Mark Nelson Geva   -	Setup the tools like tailwind and next.js and for UI libraries like ShadCN UI. Worked on the deployment.
+  John Raniel Gerolao - Seek solution of errors in Charts and user view.
+  Peter Estocado -	Worked on Form validation and Embedd maps.
+  Alexis Lagajino -	Incode the Posts, comments.
   

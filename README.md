@@ -38,9 +38,9 @@
 8. Contributions -
   Mark Nelson Geva   -	Setup the tools like tailwind and next.js and for UI libraries like ShadCN UI. Worked on the deployment.
  
-  John Raniel Gerolao - Seek solution of errors in Charts and user view.
+  John Raniel Gerolao - Worked in Charts and user view. Help to find errors. 
   
-  Peter Estocado -	Worked on Form validation and Embedd maps.
+  Peter Estocado -	Worked on Form validation and Embedd maps. Help to seek solution of errors.
   
-  Alexis Lagajino -	Incode the Posts, comments.
+  Alexis Lagajino -	Help to find error in the Posts and comments because sometimes there is a problem in the code.
   
